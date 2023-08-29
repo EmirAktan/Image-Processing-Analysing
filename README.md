@@ -29,9 +29,17 @@ Then you can copy the codes to your new python file or download it from github.
 10) Image output is shown with a new panel open. Also it downloads that image to the path you chose with the excel file.  
 
 1)![resim](https://github.com/EmirAktan/Image-Processing-Analysing/assets/115092603/dac8d7da-f003-4056-ad3a-0f58bcc0a5e0)
+
+
 2)![resim](https://github.com/EmirAktan/Image-Processing-Analysing/assets/115092603/4aecbb77-a3e3-49d2-b4e6-717f0ea4b106)
+
+
 6 & 7) ![resim](https://github.com/EmirAktan/Image-Processing-Analysing/assets/115092603/9dfec358-9840-4645-a1f4-c4bf58d9a9df)
+
+
 7)![resim](https://github.com/EmirAktan/Image-Processing-Analysing/assets/115092603/1499f160-2d15-4cea-a0f1-9ee6c45b492c)
+
+
 8)![resim](https://github.com/EmirAktan/Image-Processing-Analysing/assets/115092603/ff837bed-009d-4276-9f86-495edc52bc24)
 
 
